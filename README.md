@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=00BFFF&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Django+Specialist;Data+Scientist+%7C+ML+Systems;Cybersecurity+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=00BFFF&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Django+Specialist;Data+Scientist+%7C+ML+Systems;Cybersecurity+Engineer;Flutter+%7C+Mobile+Developer" alt="Typing SVG" />
 
   <h1>Zkerenge</h1>
 
   <p>
-    Building <strong>secure</strong>, <strong>intelligent</strong>, and <strong>scalable</strong> systems.<br/>
-    Focused on the intersection of <em>AI/ML</em>, <em>backend engineering</em>, and <em>cybersecurity</em>.
+    Engineering <strong>secure</strong>, <strong>data-driven</strong>, and <strong>production-grade</strong> systems.<br/>
+    Specializing in the convergence of <em>backend engineering</em>, <em>applied machine learning</em>, and <em>offensive/defensive security</em>.
   </p>
 
   <a href="https://github.com/zkerenge">
@@ -24,14 +24,19 @@
 
 ## About
 
-I'm a results-driven software engineer with deep specializations in **data science** and **cybersecurity**. My work sits at the convergence of these disciplines — building systems that are not only intelligent and performant, but hardened against real-world threats.
+I'm a software engineer with professional depth across three interlocking domains: **full-stack backend development**, **data science & machine learning**, and **cybersecurity engineering**. Rather than treating these as separate tracks, I build systems where all three reinforce each other — secure APIs backed by anomaly-detecting ML models, threat dashboards powered by real-time data pipelines, and mobile interfaces that expose that intelligence cleanly to end users.
 
-Currently focused on:
+My core stack is **Python/Django** on the backend and **Dart/Flutter** on the client side, with a deliberate focus on security at every layer — from JWT authentication and input validation to network-level threat detection and SIEM tooling.
 
-- Architecting **secure AI/ML pipelines** for threat detection and anomaly analysis
-- Building **data-driven web applications** with Django and Django REST Framework
-- Exploring **MLOps**, **cloud security**, and **post-quantum cryptography**
-- Preparing for **CISSP certification** (2026)
+What drives me is the belief that **security and intelligence are not features you bolt on** — they are architectural decisions made from day one. That philosophy shapes every system I design.
+
+Currently:
+
+- 🛡️ Building a **Django-based SIEM dashboard** for real-time security event monitoring
+- 🤖 Developing an **ML anomaly detection engine** for network threat hunting
+- 📱 Shipping **cross-platform Flutter applications** with secure Django backends
+- 📖 Pursuing **CISSP certification** with a target of 2026
+- 🔬 Researching **post-quantum cryptography** and **MLOps** in production environments
 
 ---
 
@@ -44,7 +49,11 @@ Currently focused on:
 ![DRF](https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat-square&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Mobile Development**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 **Data Science & ML**
 
@@ -66,15 +75,20 @@ Currently focused on:
 
 | Project | Description | Status |
 |---|---|---|
-| **Django SIEM** | Security monitoring & incident dashboard built on Django | 🔨 In Progress |
-| **ML Anomaly Detection** | Real-time threat hunting using unsupervised learning | 🔨 In Progress |
-| **CISSP Prep** | Structured study toward CISSP certification | 📚 Ongoing |
+| **Django SIEM** | Real-time security monitoring and incident response dashboard | 🔨 In Progress |
+| **ML Anomaly Detection** | Unsupervised threat hunting engine for network traffic analysis | 🔨 In Progress |
+| **Flutter × Django App** | Cross-platform mobile client backed by a secure DRF API | 🔨 In Progress |
+| **CISSP Certification** | Structured preparation across all 8 CISSP domains | 📚 Ongoing |
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
+
+> ⚠️ If stat cards appear broken, the public vercel instance is rate-limited.
+> [Deploy your own instance](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) for reliability.
+
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=zkerenge&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&cache_seconds=1800"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkerenge&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=8&cache_seconds=1800"/>
 </div>
@@ -86,5 +100,5 @@ Currently focused on:
 ---
 
 <div align="center">
-  <sub>Open to roles in <strong>secure AI</strong>, <strong>data engineering</strong>, and <strong>cybersecurity</strong> — let's build something meaningful.</sub>
+  <sub>Open to roles in <strong>secure backend engineering</strong>, <strong>applied ML</strong>, <strong>mobile development</strong>, and <strong>cybersecurity</strong> — let's build something that matters.</sub>
 </div>
