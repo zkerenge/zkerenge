@@ -1,21 +1,21 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1200&color=00BFFF&center=true&vCenter=true&width=720&lines=Software+Engineer+%7C+Data+Scientist+%7C+Cybersecurity+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&duration=3200&pause=1500&color=00BFFF&center=true&vCenter=true&width=780&lines=Software+Engineer+%7C+Data+Scientist+%7C+Cybersecurity+Specialist" alt="Typing SVG" />
 </div>
 
-<h2 align="center">Hi, I'm Zkerenge 👋</h2>
+<h2 align="center">Hi, I'm Kerenge 👋</h2>
 
 <p align="center">
-  <strong>Software Engineer specializing in Data Science and Cybersecurity. Focused on building secure, scalable, and intelligent systems.</strong>
+  <strong>Software Engineer specializing in Data Science and Cybersecurity. Building secure, scalable, and intelligent systems.</strong>
 </p>
 
 ---
 
 ### About Me
 
-Results-oriented Software Engineer with strong expertise in **Data Science** and **Cybersecurity**. I design and implement robust software solutions, intelligent data systems, and security-first architectures to solve complex technical problems.
+Results oriented Software Engineer with deep expertise in **Data Science** and **Cybersecurity**. I design and implement robust software solutions, advanced analytics systems, and security-first architectures.
 
-- 🔭 Currently building secure AI/ML solutions and advanced threat detection systems  
-- 🌱 Advancing knowledge in MLOps, Cloud Security, and Post-Quantum Cryptography  
+- 🔭 Currently focused on secure AI/ML systems and intelligent threat detection  
+- 🌱 Expanding expertise in MLOps, Cloud-Native Security, and Post-Quantum Cryptography  
 - 💼 Experienced in full-stack development, data engineering, and security operations  
 
 ---
@@ -45,18 +45,18 @@ Results-oriented Software Engineer with strong expertise in **Data Science** and
 
 ---
 
-### Activity & Statistics
+### GitHub Statistics
 
 ![Zkerenge's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zkerenge&show_icons=true&theme=radical&hide_border=true&hide_title=true&hide=stars,prs,issues,contribs)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zkerenge&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook,html,css)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zkerenge&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ### Currently Focused On
 
-Developing production-grade solutions that combine **Machine Learning**, **Cybersecurity**, and modern **Software Architecture**.
+Developing high impact solutions that combine **Machine Learning**, **Cybersecurity**, and modern **Software Architecture**.
 
 ---
 
-*Open to professional opportunities and high-impact collaborations in secure AI, data platforms, and cybersecurity engineering.*
+*Open to professional opportunities in secure AI systems, data platforms, and cybersecurity engineering.*
