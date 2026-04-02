@@ -3,7 +3,6 @@
 </div>
 
 <h1 align="center">Zkerenge 👋</h1>
-
 <p align="center">
   <strong>Software Engineer | Data Scientist | Cybersecurity Specialist</strong><br>
   <em>Building secure, intelligent systems with Django</em>
@@ -46,8 +45,12 @@ Results-oriented Software Engineer with expertise in **Data Science** and **Cybe
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zkerenge&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkerenge&layout=compact&theme=dark&bg_color=0d1117&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zkerenge&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&cache_seconds=1800&card_width=495"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkerenge&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=8&cache_seconds=1800&card_width=495"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=zkerenge&theme=dark&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ---
@@ -72,6 +75,6 @@ Results-oriented Software Engineer with expertise in **Data Science** and **Cybe
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=zkerenge&color=00BFFF&style=flat-square">
-  
+
   *Open to opportunities in secure AI, data platforms, and cybersecurity engineering*
 </div>
