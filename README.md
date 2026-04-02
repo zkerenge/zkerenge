@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Data+Scientist+%7C+Cybersecurity+Specialist" alt="Typing SVG" />
 </div>
 
-<h2 align="center">Hi, I'm Zkerenge 👋</h2>
+<h2 align="center">Hi, I'm kerenge 👋</h2>
 
 <p align="center">
   <strong>Building secure, scalable, and intelligent systems at the intersection of software engineering, data science, and cybersecurity.</strong>
@@ -12,7 +12,7 @@
 
 ### About Me
 
-Results-driven Software Engineer with deep expertise in **Data Science** and **Cybersecurity**. I specialize in developing robust, high-performance applications while integrating advanced analytics and security-first architectures. Passionate about solving complex technical challenges through clean code, machine learning, and zero-trust security principles.
+Results driven Software Engineer with deep expertise in **Data Science** and **Cybersecurity**. I specialize in developing robust, high-performance applications while integrating advanced analytics and security-first architectures. Passionate about solving complex technical challenges through clean code, machine learning, and zero-trust security principles.
 
 - 🔭 Currently focused on secure AI/ML systems and threat detection architectures  
 - 🌱 Deepening expertise in MLOps, Post-Quantum Cryptography, and Cloud-Native Security  
