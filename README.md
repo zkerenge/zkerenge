@@ -17,7 +17,7 @@
 
 I engineer **secure, intelligent, and production-ready systems** with Django and DRF on the backend, Flutter on the client, and machine learning embedded where it creates the most leverage. My work deliberately sits at the intersection of data science and cybersecurity: building systems that don't just perform, but defend.
 
-> *Security and intelligence are not features — they are foundations.*
+
 
 ---
 
