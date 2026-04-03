@@ -2,12 +2,10 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1500&color=00BFFF&center=true&vCenter=true&width=750&lines=Backend+Engineer+%7C+Django+%26+DRF;Mobile+Developer+%7C+Flutter+%26+Dart;Data+Scientist+%7C+Applied+ML;Cybersecurity+Engineer" alt="Typing SVG" />
 
-  <h2>Zkerenge</h2>
+  <h2>Zacharia Kerenge</h2>
 
   <p>
     <a href="https://github.com/zkerenge"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-    <a href="https://linkedin.com/in/zkerenge"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:zkerenge@proton.me"><img src="https://img.shields.io/badge/proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white"/></a>
     <img src="https://komarev.com/ghpvc/?username=zkerenge&color=00BFFF&style=flat-square&label=views"/>
   </p>
 
